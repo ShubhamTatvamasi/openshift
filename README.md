@@ -19,3 +19,8 @@ Pull Secret:
 ```
 {"auths":{"fake":{"auth":"aWQ6cGFzcwo="}}}
 ```
+
+Delete cluster:
+```bash
+openshift-install destroy cluster
+```
